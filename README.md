@@ -40,7 +40,7 @@ import pandas as pd
 from pandas.io.pytables import IndexCol
 ```
 # step 3
-> implment the script as in DiagnosisQuery.py 
+> implement the script as in DiagnosisQuery.py to get a csv file with the dataframe as shown above
 ```sh
 # open and read json file and load data using Python JSON module to make into list
 with open('Diagnoses.json', 'r') as f:
